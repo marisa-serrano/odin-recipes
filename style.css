@@ -30,8 +30,7 @@ img {
     margin-right: auto;
 }
 
-li {
-    display: block;
+.index {
     color: rgba(171, 71, 21, 0.616);
     font-weight: bold;
     text-align: center;
